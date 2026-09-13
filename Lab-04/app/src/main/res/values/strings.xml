@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">MADD Lab 04</string>
+
+    <string name="todo_app">My Todo App</string>
+
+    <string name="add_new_todo">Add a new task</string>
+
+    <string name="enter_todo">Enter Todo Item</string>
+
+    <string name="add_todo">Add Todo</string>
+
+    <string name="view_todos">View Todos</string>
+
+    <string name="my_todos">My Todos</string>
+
+    <string name="no_todos">No Todos available.\nAdd a Todo first.</string>
+
+    <string name="back_to_add">Back to Add Todo</string>
+
+    <string name="edit">Edit</string>
+
+    <string name="delete">Delete</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Lab 03 Calculator</string>
+
+    <string name="calculator_title">Calculator</string>
+    <string name="calculator_subtitle">Enter two numbers and select an operation</string>
+
+    <string name="first_number">Enter Number 1</string>
+    <string name="second_number">Enter Number 2</string>
+
+    <string name="op_add">+</string>
+    <string name="op_subtract">−</string>
+    <string name="op_multiply">×</string>
+    <string name="op_divide">÷</string>
+
+    <string name="result_title">Calculation Result</string>
+    <string name="answer_value">Answer: %1$s</string>
+
+    <string name="back">Back</string>
+
+    <string name="error_first_number">Please enter the first number</string>
+    <string name="error_second_number">Please enter the second number</string>
+    <string name="error_invalid_first_number">Enter a valid first number</string>
+    <string name="error_invalid_second_number">Enter a valid second number</string>
+    <string name="error_divide_zero">Cannot divide by zero</string>
+
+</resources>
