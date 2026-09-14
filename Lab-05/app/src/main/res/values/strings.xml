@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MADD Lab 05</string>
+    <string name="lab_title">Lab 05: Accelerometer Sensor</string>
+    <string name="lab_subtitle">Tilt phone to move the Android logo smoothly</string>
+    <string name="student_info">IT22081698 - Abhilash K A T W</string>
+    
+    <string name="telemetry_title">Live Accelerometer Data</string>
+    <string name="axis_x_format">X: %.2f m/s²</string>
+    <string name="axis_y_format">Y: %.2f m/s²</string>
+    <string name="axis_z_format">Z: %.2f m/s²</string>
+    <string name="direction_format">Tilt: %s</string>
+    
+    <string name="direction_flat">Flat / Neutral</string>
+    <string name="direction_left">Left</string>
+    <string name="direction_right">Right</string>
+    <string name="direction_forward">Forward (Up)</string>
+    <string name="direction_backward">Backward (Down)</string>
+    
+    <string name="btn_reset">Reset Position</string>
+    <string name="sensor_active">Sensor: Active (SENSOR_DELAY_GAME)</string>
+    <string name="sensor_unavailable">Error: Accelerometer not supported on this device.</string>
+</resources>

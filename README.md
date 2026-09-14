@@ -61,8 +61,14 @@ MADD-Labs/
   - Full CRUD capabilities: Add new tasks, edit existing items via `AlertDialog`, and delete tasks.
   - Dynamic empty-state handling when no items are present.
 
-### 🔹 [Lab-05](./Lab-05) - Advanced Android Concepts
-- **Focus:** Practical exercises and upcoming coursework components.
+### 🔹 [Lab-05](./Lab-05) - Advanced Android Concepts (Sensors & Accelerometer Motion Tracking)
+- **Focus:** Hardware sensor integration using `SensorManager` and real-time motion tracking.
+- **Key Features:**
+  - Capturing real-time accelerometer tilt data (X, Y, and Z axes) implementing `SensorEventListener`.
+  - Low-pass filter algorithm to eliminate sensor jitter and provide silky smooth movement.
+  - Interactive arena with collision boundary checks constraining view movement to screen limits.
+  - Live HUD telemetry displaying real-time axis readings and directional tilt classification.
+  - Interactive reset controls and sensor lifecycle management (`onResume`/`onPause`).
 
 ---
 
@@ -85,7 +91,7 @@ MADD-Labs/
    ```
 2. **Open in Android Studio:**
    - Open Android Studio.
-   - Select **Open** and choose the specific lab directory (e.g., `Lab-02`, `Lab-03`, or `Lab-04`).
+   - Select **Open** and choose the specific lab directory (e.g., `Lab-01`, `Lab-02`, `Lab-03`, `Lab-04`, or `Lab-05`).
 3. **Sync & Build:**
    - Allow Gradle to sync dependencies and project configuration.
    - Run the project on an Android Emulator or connected physical device.

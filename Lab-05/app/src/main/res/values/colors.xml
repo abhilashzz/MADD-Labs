@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#10B981</color>
+    <color name="primary_dark">#059669</color>
+    <color name="android_green">#3DDC84</color>
+    <color name="accent_blue">#38BDF8</color>
+    <color name="accent_purple">#A855F7</color>
+
+    <color name="screen_bg">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="arena_bg">#EDF2F7</color>
+    <color name="arena_border">#CBD5E1</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_accent">#0284C7</color>
+
+    <color name="badge_bg">#E0F2FE</color>
+    <color name="badge_text">#0369A1</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
