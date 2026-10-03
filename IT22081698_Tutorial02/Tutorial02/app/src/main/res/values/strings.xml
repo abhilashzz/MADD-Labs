@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Layout Activities Tutorial</string>
+    <string name="login_title">Welcome back</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="login">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_new_account">Create a new account</string>
+    <string name="create_account">Create account</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="cancel">Cancel</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_format">Welcome, %1$s</string>
+    <string name="dashboard_message">You successfully navigated to the dashboard.</string>
+    <string name="back">Back</string>
+    <string name="passwords_match">Account created. Please log in.</string>
+    <string name="passwords_do_not_match">Passwords do not match.</string>
+    <string name="complete_all_fields">Complete all fields.</string>
+    <string name="login_failed">Login failed. Check your username and password.</string>
+    <string name="not_registered">Registration cancelled.</string>
+    <string name="profile_icon_description">Profile icon</string>
+</resources>

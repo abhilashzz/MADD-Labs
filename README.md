@@ -100,3 +100,17 @@ MADD-Labs/
 
 ## 📄 License
 This repository is created for academic coursework and assignment submissions.
+
+## Tutorials
+
+Tutorials for **IT22081698 — Abhilash K A T W** are included alongside the labs.
+
+| Tutorial | Project |
+| --- | --- |
+| 01 | [Kotlin exercises](./IT22081698_Tutorial01/Tutorial01) |
+| 02 | [Android activities and layouts](./IT22081698_Tutorial02/Tutorial02) |
+| 03 | [Fragments and shared data](./IT22081698_Tutorial03/MADD_Tutorial03) |
+| 04 | [Room database and records](./IT22081698_Tutorial04/Tutorial04) |
+| 05 | [Accelerometer, proximity and light sensors](./IT22081698_Tutorial05/Tutorial05) |
+
+Open Tutorial 01's inner `Tutorial01` folder in IntelliJ IDEA with Kotlin support and configure a local JDK. Open each of Tutorials 02–05 at its linked project folder in Android Studio and allow Gradle to sync. Android Studio will configure the local Android SDK path. Generated output, caches and machine-specific SDK paths are excluded from Git.
